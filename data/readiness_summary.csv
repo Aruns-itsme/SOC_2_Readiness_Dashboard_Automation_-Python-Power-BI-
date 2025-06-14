@@ -1,0 +1,25 @@
+Category,Risk Level,Implemented,Total,Compliance Percentage
+Access Control,High,4,10,40.0
+Access Control,Low,4,13,30.76923076923077
+Access Control,Medium,2,7,28.57142857142857
+Change Management,High,2,5,40.0
+Change Management,Low,2,9,22.22222222222222
+Change Management,Medium,1,4,25.0
+Confidentiality,High,2,6,33.33333333333333
+Confidentiality,Low,4,7,57.14285714285714
+Confidentiality,Medium,1,12,8.333333333333332
+Governance,High,0,2,0.0
+Governance,Low,2,10,20.0
+Governance,Medium,4,10,40.0
+Incident Response,High,2,10,20.0
+Incident Response,Low,1,9,11.11111111111111
+Incident Response,Medium,2,8,25.0
+Privacy,High,4,12,33.33333333333333
+Privacy,Low,0,4,0.0
+Privacy,Medium,2,11,18.181818181818183
+Risk Management,High,2,7,28.57142857142857
+Risk Management,Low,2,8,25.0
+Risk Management,Medium,2,8,25.0
+System Operations,High,6,13,46.15384615384615
+System Operations,Low,3,7,42.857142857142854
+System Operations,Medium,2,8,25.0
